@@ -49,9 +49,9 @@ Right-click on the Player node and Add Child Node. Select AnimationTree. Select 
 
 You will see a new AnimationTree panel appear at the bottom of the window. Drag the Output node to the right side of the workspace.
 
-Add Node, and select Animation. Create a second Animation Node, and a Blend2 Node. Connect the Out ports from the two Animation nodes to the in and blend ports on the Blend2 node. Connect the out port from teh Blend2 node to the Output node.
+Add Node, and select Animation. Create a second Animation Node, and a Blend2 Node. Connect the Out ports from the two Animation nodes to the in and blend ports on the Blend2 node. Connect the out port from the Blend2 node to the Output node.
 
-Rename the Blend2 node Idle_Run.
+Rename the Blend2 node Idle_Walk.
 
 In the first Animation node, call the animation Idle, and select Idle from the film cannister menu.
 
