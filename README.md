@@ -1,7 +1,7 @@
 # Exercise-06a-Animation
 Exercise for MSCH-C220, 6 April 2021
 
-A demonstration of this exercise is available at [https://youtu.be/50En1KTlLKA(https://youtu.be/50En1KTlLKA)
+A demonstration of this exercise is available at [https://youtu.be/50En1KTlLKA](https://youtu.be/50En1KTlLKA)
 
 ---
 
