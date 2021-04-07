@@ -53,9 +53,9 @@ Add Node, and select Animation. Create a second Animation Node, and a Blend2 Nod
 
 Rename the Blend2 node Idle_Walk.
 
-In the first Animation node, call the animation Idle, and select Idle from the film cannister menu.
+In the first Animation node, call the animation Idle, and select Idle from the film canister menu.
 
-In the first Animation node, call the animation Walk, and select Walk from the film cannister menu.
+In the first Animation node, call the animation Walk, and select Walk from the film canister menu.
 
 As you adjust the slider, you should see the Walk animation become more or less dramatic.
 
