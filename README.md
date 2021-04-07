@@ -1,6 +1,8 @@
 # Exercise-06a-Animation
 Exercise for MSCH-C220, 6 April 2021
 
+A demonstration of this exercise is available at [https://youtu.be/50En1KTlLKA(https://youtu.be/50En1KTlLKA)
+
 ---
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06a-Animation. Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name. Commit your changes.
